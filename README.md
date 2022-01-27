@@ -74,7 +74,15 @@
 
 ## Jetson Nano 2GB
 
-![IMG_20220125_115056](https://user-images.githubusercontent.com/89011801/151378869-53038db2-e780-4a1a-8302-75b3bc68209a.jpg)
+
+
+
+
+https://user-images.githubusercontent.com/89011801/151390737-fc31feb1-b8a2-45b6-8df5-f65dfc8985f6.mp4
+
+
+
+
 
 
 
