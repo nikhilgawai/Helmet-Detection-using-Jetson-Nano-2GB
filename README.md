@@ -1,5 +1,5 @@
 
-# Helmet Detection on Yolov5 using Jetson Nano 2GB
+# Helmet Detection on Jetson Nano 2GB using Yolov5.
 
 ## Aim And Objectives
 
@@ -78,7 +78,10 @@
 
 
 
-https://user-images.githubusercontent.com/89011801/151390737-fc31feb1-b8a2-45b6-8df5-f65dfc8985f6.mp4
+
+
+https://user-images.githubusercontent.com/89011801/151480525-4615fe18-cbf2-4dd2-a954-2efbe6627558.mp4
+
 
 
 
