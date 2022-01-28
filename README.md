@@ -209,10 +209,7 @@ sudo python3 detect.py --weights yolov5s.pt  --source 0
 
 ### We used Google Colab And Roboflow
 
-#### train your model on colab and download the weights and past them into yolov5 folder
-#### link of project
-
-Insert gif or link to demo
+#### train your model on colab and download the weights and pass them into yolov5 folder.
 
 
 ## Running Helmet Detection Model
